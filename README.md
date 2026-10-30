@@ -12,7 +12,7 @@ TRI-FI RESCUE is a disaster-response decision-support prototype designed to help
 - Sector ranking based on a weighted evidence score.
 - Explainable rescue-priority recommendations.
 - Human review required for every recommendation.
-- Automated tests for fusion and recommendation logic.
+- Automated tests for fusion and recommendation .
 
 ## System Pipeline
 
